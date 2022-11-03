@@ -1,0 +1,32 @@
+{
+  "Machine_name": "UCC_01",
+  "Product_name": "1351824120",
+  "Date": "12",
+  "Time": "10",
+  "To_Mqtt": {
+    "Power_on": [
+      80,
+      443
+    ],
+    "Power_off": [
+      80,
+      443
+    ],
+    "Operation_time": [
+      80,
+      443
+    ],
+    "Idle_time": [
+      80,
+      443
+    ],
+    "Cycle_time": [
+      80,
+      443
+    ],
+    "Output": [
+      80,
+      443
+    ]
+  }
+}
